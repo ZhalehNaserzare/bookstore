@@ -1,1 +1,3 @@
-# bookstore
+# bookstore4
+
+This DBS project creates a database schema for a (branch) bookstore. This database provides an overview of all data of the bookstore - this includes all personal data (employees, publishers, authors, customers), all items (books and CDs) purchased in the bookstore or ordered by the customer. In addition, the database system should eventually contain data about events that take place in the bookstore.
